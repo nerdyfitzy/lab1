@@ -16,9 +16,10 @@ We will set up programming environment our our own computer, by following [Setup
 ## Programming Requirement
 
 A code skeleton is given for this lab. You are asked to finish the following, test and run the program:
-1.
-2.
-3. 
+
+1. Implement the IntArray class's constructor
+2. Implement the desstructor 
+3. Implement the reverse member function 
 
 ## Submission 
 
