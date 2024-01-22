@@ -23,7 +23,6 @@ A code skeleton is given for this lab. You are asked to finish the following, te
 
 ## Submission 
 
-Submit your program at the following link:
+Submit your program at the following link by Deadline Jan 30, 2024.
 
-[lab1 submission site]
-](https://storm.cis.fordham.edu:8443/web/project/1486)
+[lab1 submission site](https://storm.cis.fordham.edu:8443/web/project/1486)
