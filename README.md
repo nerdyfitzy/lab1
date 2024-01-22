@@ -20,8 +20,10 @@ A code skeleton is given for this lab. You are asked to finish the following, te
 1. Implement the IntArray class's constructor
 2. Implement the desstructor 
 3. Implement the reverse member function
-4. Define a new member function for IntArray class, named FindLargest, that returns the largest element stored in the IntArray. Call the function from main to test it.
 
 ## Submission 
 
-Instructions for submitting your work will be posted here soon. 
+Submit your program at the following link:
+
+[lab1 submission site]
+](https://storm.cis.fordham.edu:8443/web/project/1486)
