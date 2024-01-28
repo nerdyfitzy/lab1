@@ -19,8 +19,10 @@ A code skeleton is given for this lab. You are asked to finish the following, te
 
 1. Implement the IntArray class's constructor
 2. Implement the desstructor 
-3. Implement the reverse member function 
+3. Implement the reverse member function
 
 ## Submission 
 
-Instructions for submitting your work will be posted here soon. 
+Submit your program at the following link by Deadline Jan 30, 2024.
+
+[lab1 submission site](https://storm.cis.fordham.edu:8443/web/project/1486)
