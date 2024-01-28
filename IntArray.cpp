@@ -9,6 +9,7 @@ namespace ds {
  */
 IntArray::IntArray(int len) {
   // TODO: initialize data members
+  length = len;
   storedArray = new int[len];
 }
 
@@ -17,7 +18,7 @@ IntArray::IntArray(int len) {
  */
 IntArray::~IntArray() {
   // TODO: delete the internal array
-  delete storedArray;
+  delete [] storedArray;
 }
 
 /**
@@ -25,14 +26,16 @@ IntArray::~IntArray() {
  */
 void IntArray::reverse() {
   // TODO: reverse `storedArray`
-  int temp[10];
-  for(int i = 0; i < 10; i++) {
+  int *temp = new int[length];
+  for(int i = 0; i < length; i++) {
     temp[i] = *(storedArray + (9 - i));
   }
 
-  for(int i = 0; i < 10; i++) {
+  for(int i = 0; i < length; i++) {
     *(storedArray + i) = temp[i];
   }
+
+  delete [] temp;
 }
 
 } // namespace ds
